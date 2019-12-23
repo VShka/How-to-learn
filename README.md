@@ -7,4 +7,4 @@
 - методология БЭМ
 
 # Посмотреть можно по ссылке:
-https://vshka.github.io/howtolearn.github.io/
+https://vshka.github.io/How-to-learn/
